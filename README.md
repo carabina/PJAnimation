@@ -1,17 +1,24 @@
-# PJAnimation
+# BlinkingLabel
 
-[![CI Status](http://img.shields.io/travis/preetam/PJAnimation.svg?style=flat)](https://travis-ci.org/preetam/PJAnimation)
-[![Version](https://img.shields.io/cocoapods/v/PJAnimation.svg?style=flat)](http://cocoapods.org/pods/PJAnimation)
-[![License](https://img.shields.io/cocoapods/l/PJAnimation.svg?style=flat)](http://cocoapods.org/pods/PJAnimation)
-[![Platform](https://img.shields.io/cocoapods/p/PJAnimation.svg?style=flat)](http://cocoapods.org/pods/PJAnimation)
+[![Version](https://img.shields.io/cocoapods/v/PJAnimation.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
+[![License](https://img.shields.io/cocoapods/l/PJAnimation.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
+[![Platform](https://img.shields.io/cocoapods/p/PJAnimation.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 
-## Example
+## Overview
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+PJAnimation is a subclass of UILabel, written in Swift, that enables the UILabel to blink.
+
+![](blinkinglabel.gif?raw=true "Blinking Label screenshot")
 
 ## Requirements
+* ARC
+* iOS8
 
-## Installation
+## Motivation
+
+Motivation is to create a pod. (Test perpose)
+
+## Installation with CocoaPods
 
 PJAnimation is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
@@ -20,9 +27,14 @@ it, simply add the following line to your Podfile:
 pod "PJAnimation"
 ```
 
+
+## Example Project
+
+An example project is included with this repo.  To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
 ## Author
 
-preetam, preetamjadakar@yahoo.com
+Preetam Jadakar
 
 ## License
 

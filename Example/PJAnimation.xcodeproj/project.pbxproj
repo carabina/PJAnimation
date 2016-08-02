@@ -30,7 +30,7 @@
 /* Begin PBXFileReference section */
 		04CD3C62E59E4E8168A14D1D /* Pods-PJAnimation_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PJAnimation_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PJAnimation_Example/Pods-PJAnimation_Example.release.xcconfig"; sourceTree = "<group>"; };
 		06F487153880FBDBA5417E8F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		330AAD05F8BF177895F6BB96 /* PJAnimation.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PJAnimation.podspec; path = ../PJAnimation.podspec; sourceTree = "<group>"; };
+		330AAD05F8BF177895F6BB96 /* PJAnimation.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = PJAnimation.podspec; path = ../PJAnimation.podspec; sourceTree = "<group>"; };
 		546B001A80C0024BC5499AC9 /* Pods_PJAnimation_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PJAnimation_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* PJAnimation_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PJAnimation_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
