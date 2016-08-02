@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import PJAnimation
+//import PJAnimation
 
 class Tests: XCTestCase {
     

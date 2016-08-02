@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'PJAnimation'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of PJAnimation.'
+  s.summary          = 'A subclass on UILabel that provides a blink.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,16 +17,14 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.'
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/PJAnimation'
+  s.homepage         = 'https://github.com/preetamjadakar/PJAnimation'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'preetam' => 'preetamjadakar@yahoo.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/PJAnimation.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/preetamjadakar/PJAnimation.git', :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/preetam0512'
 
   s.ios.deployment_target = '8.0'
 
